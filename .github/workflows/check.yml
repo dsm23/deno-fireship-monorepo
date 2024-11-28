@@ -30,4 +30,4 @@ jobs:
       - name: Lint check
         run: deno lint
       - name: Unit tests
-        run: deno coverage
+        run: deno test --coverage
