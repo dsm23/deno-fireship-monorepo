@@ -1,0 +1,11 @@
+{
+  "scriptId": "330",
+  "url": "file:///Users/davidmurdoch/repos/deno-fireship-monorepo/foobar/main.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 74, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

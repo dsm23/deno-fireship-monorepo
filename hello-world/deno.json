@@ -1,0 +1,10 @@
+{
+  "name": "@deno/hello-world",
+  "tasks": {
+    "dev": "deno run main.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1.0.8"
+  },
+  "exports": {}
+}

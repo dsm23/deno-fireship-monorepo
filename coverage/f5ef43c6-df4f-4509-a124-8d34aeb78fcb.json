@@ -1,0 +1,16 @@
+{
+  "scriptId": "317",
+  "url": "file:///Users/davidmurdoch/repos/deno-fireship-monorepo/hello-world/main.test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 173, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "helloWorldTest",
+      "ranges": [{ "startOffset": 94, "endOffset": 170, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

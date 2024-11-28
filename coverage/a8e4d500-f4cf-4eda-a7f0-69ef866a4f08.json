@@ -1,0 +1,16 @@
+{
+  "scriptId": "317",
+  "url": "file:///Users/davidmurdoch/repos/deno-fireship-monorepo/camel-case/main.test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 244, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "camelCaseTest",
+      "ranges": [{ "startOffset": 66, "endOffset": 241, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

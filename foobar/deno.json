@@ -1,0 +1,10 @@
+{
+  "name": "@deno/foobar",
+  "imports": {
+    "@std/testing": "jsr:@std/testing@1.0.5"
+  },
+  "tasks": {
+    "dev": "deno run main.ts"
+  },
+  "exports": {}
+}
