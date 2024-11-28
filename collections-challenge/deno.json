@@ -1,0 +1,8 @@
+{
+  "name": "@deno/collections-challenge",
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1.0.8",
+    "@std/collections": "jsr:@std/collections@1.0.9"
+  },
+  "exports": {}
+}

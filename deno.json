@@ -1,5 +1,5 @@
 {
   "workspace": {
-    "members": ["camel-case", "foobar", "hello-world"]
+    "members": ["camel-case", "collections-challenge", "foobar", "hello-world"]
   }
 }
